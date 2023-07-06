@@ -1,0 +1,22 @@
+{
+  "name": "Dino Game",
+  "version": "0.0.1",
+  "storage": {},
+  "description": "A fun little dinosaur game",
+  "website": "http://wao.gg",
+  "kind": "app",
+  "icon": {
+    "md": "./assets/icon.png"
+  },
+  "contact": {
+    "repository": "https://github.com/coral-xyz/xnft-program-library"
+  },
+  "screenshots": [
+    "./assets/screenshot.png"
+  ],
+  "entrypoints": {
+    "default": {
+      "web": "./web-build/index.html"
+    }
+  }
+}

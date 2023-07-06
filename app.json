@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "dino-game",
+    "slug": "dino-game",
+    "entryPoint": "./src/index"
+  }
+}
