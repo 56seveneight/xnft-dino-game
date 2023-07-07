@@ -1,5 +1,6 @@
 {
   "name": "xnft-dino-game",
+  "license": "MIT",
   "homepage": ".",
   "scripts": {
     "build": "expo export:web",

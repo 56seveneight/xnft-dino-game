@@ -1,15 +1,14 @@
 {
   "name": "Dino Game",
-  "version": "0.0.1",
-  "storage": {},
+  "version": "0.0.3",
   "description": "A fun little dinosaur game",
-  "website": "http://wao.gg",
+  "website": "https://fivesixseveneight.com",
   "kind": "app",
   "icon": {
     "md": "./assets/icon.png"
   },
   "contact": {
-    "repository": "https://github.com/coral-xyz/xnft-program-library"
+    "repository": "https://github.com/56seveneight/xnft-dino-game"
   },
   "screenshots": [
     "./assets/screenshot.png"
